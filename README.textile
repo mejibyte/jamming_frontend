@@ -1,6 +1,6 @@
 h1. Jamming Frontend
 
-A tiny Sinatra app that serves as a front end for the [jamming gem](http://github.com/andmej/jamming).
+A tiny Sinatra app that serves as a front end for the "jamming gem":http://github.com/andmej/jamming.
 
 h2. Usage
 
