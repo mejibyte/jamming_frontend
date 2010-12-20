@@ -13,4 +13,5 @@ PLATFORMS
 
 DEPENDENCIES
   jamming
+  rmagick
   sinatra
