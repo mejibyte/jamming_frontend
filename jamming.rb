@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'jamming'
+puts require 'jamming'
 
 get '/' do
   "Hello from Sinatra on Heroku!"
