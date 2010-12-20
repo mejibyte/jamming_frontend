@@ -3,5 +3,5 @@ require 'bundler'
 
 Bundler.require
 
-require 'jamming'
+require 'jamming_frontend'
 run Sinatra::Application
