@@ -1,0 +1,19 @@
+h1. Jamming Frontend
+
+A tiny Sinatra app that serves as a front end for the [jamming gem](http://github.com/andmej/jamming).
+
+h2. Usage
+
+@http://jamming.heroku.com/chords/076780?label=Em7%239@
+
+!http://jamming.heroku.com/chords/076780?label=Em7%239!
+
+
+@http://jamming.heroku.com/chords/9-11-11-10-9-x?label=C@
+
+!http://jamming.heroku.com/chords/9-11-11-10-9-x?label=C!
+
+
+@http://jamming.heroku.com/chords/x02220@
+
+!http://jamming.heroku.com/chords/x02220!
