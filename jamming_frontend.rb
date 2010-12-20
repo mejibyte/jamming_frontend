@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "Hello from Sinatra on Heroku!"
+  "See http://github.com/andmej/jamming_frontend for usage."
 end
 
 get '/chords/:chord' do |chord|
