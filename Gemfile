@@ -1,5 +1,5 @@
 source :rubygems
 
 gem "sinatra"
-gem "jamming"
+gem "jamming", "~> 1.0.2"
 gem "rmagick"
