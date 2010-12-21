@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    jamming (0.2.0)
+    jamming (0.2.1)
       rmagick
     rack (1.2.1)
     rmagick (2.13.1)
@@ -12,6 +12,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jamming (~> 0.2.0)
+  jamming (~> 0.2.1)
   rmagick
   sinatra
