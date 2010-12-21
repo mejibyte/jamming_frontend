@@ -15,7 +15,7 @@ h2. Usage
 
 
 @http://jamming.heroku.com/chords/x02220@
-
+Notice we get the label even if we didn't specify one. Jamming automatically identifies the most popular chords.
 !http://jamming.heroku.com/chords/x02220!
 
 @http://jamming.heroku.com/chords/x32000@
