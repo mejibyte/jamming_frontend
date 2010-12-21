@@ -14,12 +14,13 @@ h2. Usage
 !http://jamming.heroku.com/chords/9-11-11-10-9-x?label=C!
 
 
-@http://jamming.heroku.com/chords/x02220@
-
-!http://jamming.heroku.com/chords/x02220!
-Notice we got the label even if we didn't specify one. Jamming automatically identifies the most popular chords.
-
-
 @http://jamming.heroku.com/chords/x32000@
 
 !http://jamming.heroku.com/chords/x32000!
+
+
+@http://jamming.heroku.com/chords/x02220@
+
+!http://jamming.heroku.com/chords/x02220!
+
+Notice we got the label even if we didn't specify one. Jamming automatically identifies the most popular chords.
